@@ -1,10 +1,10 @@
 # Lazy-Bing-Server
 
-> ~~**冰冰喵小姐**可可爱爱嘶哈嘶哈prpr诶嘿嘿(º﹃º )~~
+> ~~**冰冰喵小姐**可可爱爱嘶哈嘶哈prpr诶嘿嘿🥵🥵🥵~~
 
 懒兵服（英文名称 <abbr title="LBS">Lazy Bing Server</abbr>）是一个由 [**Sinbing**](https://github.com/Sinbing "冰冰喵") 创建的 Minecraft 服务器
 
-<!-- 这里写什么还没想好 -->
+<!-- 这里写什么还没想好🤤🤤🤤 -->
 
 ## 服务器客制化资源
 
