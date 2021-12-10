@@ -16,8 +16,6 @@
 
 ### MCDR 插件
 
-- [LBS-MCDR-General-API](https://github.com/Lazy-Bing-Server/LBS-MCDR-General-API "通用 API")
-- [tcuhc-general-api](https://github.com/Lazy-Bing-Server/tcuhc-general-api "解析 TC-UHC 输出信息的 API")
 - [AdvancedJoinMOTD](https://github.com/Lazy-Bing-Server/AdvancedJoinMOTD "高度可自定义的加入欢迎信息")
 - [Server-Updater](https://github.com/Lazy-Bing-Server/Server-Updater "自动检查并获取服务端更新")
 - [lazytp](https://github.com/Lazy-Bing-Server/lazytp "简化跨维度传送的命令")
