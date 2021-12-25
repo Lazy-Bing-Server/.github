@@ -17,5 +17,5 @@
 ### MCDR 插件
 
 - [AdvancedJoinMOTD](https://github.com/Lazy-Bing-Server/AdvancedJoinMOTD "高度可自定义的加入欢迎信息")
-- [Server-Updater](https://github.com/Lazy-Bing-Server/Server-Updater "自动检查并获取服务端更新")
-- [lazytp](https://github.com/Lazy-Bing-Server/lazytp "简化跨维度传送的命令")
+- [ServerUpdater](https://github.com/Lazy-Bing-Server/Server-Updater "自动检查并获取服务端更新")
+- [LazyTP](https://github.com/Lazy-Bing-Server/lazytp "简化跨维度传送的命令")
